@@ -1,4 +1,4 @@
-module up_down_counter1(
+module up_down_counter(
   input  clk,
   input  rst,    
   input  s,
