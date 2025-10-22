@@ -1,4 +1,4 @@
-class driver1;
+class driver;
   transaction trans;
   mailbox g2d;
   virtual int_f int_d;
